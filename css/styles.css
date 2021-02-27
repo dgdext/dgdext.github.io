@@ -15,3 +15,7 @@ background-color:#80AFDB;
     background-color: #202122;
     text-align: center;
   }
+  .no-padding {
+    padding-left: 0;
+    padding-right: 0;
+  }
