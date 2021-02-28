@@ -16,6 +16,6 @@ color: #F4B33F;
     background-color: #202122;
     text-align: center;
   }
-.navbar{
-  background-color: #F1F4F4;
-}
+  .navbar.transparent.navbar-inverse .navbar-inner {
+    background: rgba(0,0,0,0.4);
+ }
