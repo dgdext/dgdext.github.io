@@ -1,6 +1,7 @@
 .jumbotron
 {
-background-color:#80AFDB;
+background-color:#0B658F;
+color: #F4B33F;
 }
 .body
 {
@@ -15,7 +16,6 @@ background-color:#80AFDB;
     background-color: #202122;
     text-align: center;
   }
-  .no-padding {
-    padding-left: 0;
-    padding-right: 0;
-  }
+.navbar{
+  background-color: #F1F4F4;
+}
